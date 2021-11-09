@@ -74,15 +74,4 @@ function primeNumber(number) {
 
 primeNumber(5);
 
-console.log("------------------------------------")
-
-function findPrimeNumbers(...numbers) {
-    let result = []
-
-    result.p
-}
-
-
-
-
 
